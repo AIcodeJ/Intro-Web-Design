@@ -1,23 +1,27 @@
 # App Web Design Course
-_Introducción sobre Diseño de Aplicaciones Web, se mostraran a continuación los temarios aprendidos para la ruta de aprendizaje_
-### Pre-requisitos 📋
-_Vamos a necesitar lo a lo largo de esta ruta_
+_Introduction to Web Application Design, the learned topics for the learning path will be shown below._
+### Pre-requisites 📋
+_We will need the following throughout this path_
 
 ```
-1. Github (versión más reciente)
-2. IDE de tu preferencia
+1. Github (latest version)
+2. IDE of your preference
 ```
-## Comenzando 🚀
-_Temarios para la ruta:_
+## Getting Started 🚀
+_Topics for the path:_
 1. Markdown
-2. 
+2. Git
 ## Construido con 🛠️
-_Estas son algunas herramientas que recomiendo_
-* [VsCode](https://code.visualstudio.com/) - El editor de código que se usa (puedes usar el editor o IDE de preferencia)
-* [Git](https://git-scm.com/) - Para el control de versiones del proyecto
-## Versionado 📌
-Usamos Git para el versionado del proyecto. 
-## Autores ✒️
-* **Alexis Pérez** - *Creador del Proyecto* - [Alexis](https://github.com/AIcodeJ)
-## Licencia 📄
-Este proyecto está bajo la Licencia [Alexis](https://github.com/AIcodeJ)
+_Here are some recommended tools:_
+* [VsCode](https://code.visualstudio.com/) - The code editor used (you can use your preferred editor or IDE)
+* [Git](https://git-scm.com/) - For project version control
+## Versioning 📌
+We use Git for project versioning. 
+## Authors ✒️
+* **Alexis Pérez** - *Project Creator* - [Alexis](https://github.com/AIcodeJ)
+* **2942889** - *Software Development* - 8th Semester
+* Collecting information by *Manuel Alejandro García Andrade*
+## License 📄
+This project is under the [Alexis](https://github.com/AIcodeJ) License
+
+_Note: This repository will be updated every week until completing the entire learning path._
